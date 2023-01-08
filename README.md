@@ -1,2 +1,2 @@
 # DeepLearning-Assignment
-Assignments of Deep Learning & ML course 
+Assignments of Deep Learning course 
